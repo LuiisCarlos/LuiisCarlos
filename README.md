@@ -5,7 +5,7 @@ I love writing clean and scalable code, building reliable backend systems, and m
 
 Outside of coding, music is my vibe, headphones on, world off. When I need to disconnect, football’s the move. I’m always on the hunt to learn something new or level up, whether it’s tech-related or not. If something grabs my attention, I dive in until I’m all in.
 
-Fun Facts:
+**Fun Facts:**
 
 -   After dark is when I shine
 -   One Piece > Anything else
